@@ -1,5 +1,5 @@
 body{
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'poppins', sans-serif;
     margin-left: 20px;
 }
 .display-flex{
@@ -20,11 +20,15 @@ body{
     margin-left: 30px;
 }
 .half-width img{
-    width: 70%;
+    width: 60%;
     margin-left: 50px;
     margin-top: 20px;
-    margin-right: 20px;
+    margin-right: 10px;
 
+}
+
+.half-width h1{
+    margin-top: 10%;
 }
 
 h1{
