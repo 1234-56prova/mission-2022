@@ -4,6 +4,8 @@ body{
 }
 .display-flex{
     display: flex;
+    margin-top: 90px;
+ 
 }
 
 .border{
